@@ -41,5 +41,5 @@ Feliz que você esteja aqui! 🤩
   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=leiaribeirot&show_icons=true&theme=dracula" alt="leiaribeirot" />
 </a>
 <a href="https://github.com/leiaribeirot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiaribeirot&layout=compact&theme=dracula" alt="leiaribeirot" />
+  <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiaribeirot&layout=compact&theme=dracula" alt="leiaribeirot" />
 </a>
