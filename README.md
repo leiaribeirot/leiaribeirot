@@ -44,6 +44,6 @@ Feliz que você esteja aqui! 🤩
   <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiaribeirot&layout=compact&theme=dracula" alt="leiaribeirot" />
 </a>
 
-
+</b>
 **Inspiração:**
 [Ana Gomes](https://github.com/gomesanac/gomesanac)
