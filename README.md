@@ -45,4 +45,5 @@ Feliz que você esteja aqui! 🤩
 </a>
 
 
-Inspiração:[Ana Gomes](https://github.com/gomesanac/gomesanac)\
+>Inspiração:
+[Ana Gomes](https://github.com/gomesanac/gomesanac)
