@@ -45,5 +45,4 @@ Feliz que você esteja aqui! 🤩
 </a>
 
 
-**Inspiração:**
-> [Ana Gomes](https://github.com/gomesanac/gomesanac)
+> Readme.md inspirada na da [Ana Gomes](https://github.com/gomesanac/gomesanac)
