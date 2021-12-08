@@ -6,7 +6,7 @@ Feliz que você esteja aqui! 🤩
 - 🧑‍🎓 Formada em Administração e que adora um processo estruturado. 
 - 🎭 Apaixonada por toda e qualquer expressão artística.
 - 👩‍🎤 Me aventuro na música. Amo tocar violão e cantar!
-- 🙀 Mãe de pet! Amo demais meus gatinhos Mufasa e Mustafá!
+- 🙀 Mãe de pet! Amo demais meu gatinho Mustafá!
 - 😎 Já estou indo, mas tem muita coisa boa surgindo de mim e estou colando aqui!
 - 📬 Se você quiser falar algo complexo comigo, melhor maneira é por e-mail.
 - 💬 Redes Sociais abertas para grandes aventuras! Corre lá! 
