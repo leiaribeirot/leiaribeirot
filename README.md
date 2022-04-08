@@ -34,7 +34,6 @@ Feliz que você esteja aqui! 🤩
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-asquare&logo=Gmail&logoColor=white&link=mailto:leiaribeirot@gmail.com)](mailto:leiaribeirot@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-asquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/l%C3%A9ia-ribeirot/)](https://www.linkedin.com/in/léia-ribeirot/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-asquare&logo=instagram&logoColor=white&link=https://www.instagram.com/leia.ribeirot/)](https://www.instagram.com/leia.ribeirot/)
 
 
 <a href="https://github.com/leiaribeirot">
