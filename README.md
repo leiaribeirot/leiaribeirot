@@ -1,9 +1,7 @@
 🙋Oii, sou a Léia Ribeiro! 😌
+Criativa, entusiasta do belo, graduada em Administração Pública pela UFAM, hoje em transição de carreira para a área de tecnologia.
 Em outubro de 2021 ingressei na [Trybe](https://www.betrybe.com/) como estudante de **Desenvolvimento Web** e nessa aventura incrível 🚀 tenho desenvolvido várias aptidões de **Hard Skills** na área desenvolvimento web 👩‍💻 e multiplas habilidades de **Soft Skills** 🧘‍♀️ que me permitem um melhor gerenciamento da minha *roda da vida*. 🎡
 
-- 👩🏽‍💻 Estudante de Desenvolvimento Web Full-stack.
-- 🧑‍🎓 Formada em Administração e que adora um processo estruturado. 
-- 📬 Se você quiser falar algo complexo comigo, melhor maneira é por e-mail.
 
 **Tecnologias e ferramentas em que me desenvolvi:**
 
