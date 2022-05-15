@@ -1,5 +1,5 @@
 🙋Oii, sou a Léia Ribeiro! 😌
-Criativa, entusiasta de ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-asquare&logo=JavaScript&logoColor=white)
+Criativa, entusiasta de JavaScript. 
 Em 2021 ingressei na [Trybe](https://www.betrybe.com/) como estudante de **Desenvolvimento de Software Web Full Stack** e nessa aventura incrível 🚀 tenho desenvolvido várias aptidões de **Hard Skills** na área programação 👩‍💻 e múltiplas habilidades de **Soft Skills** 🧘‍♀️ que me permitem um melhor gerenciamento da minha *da vida*.
 
 
