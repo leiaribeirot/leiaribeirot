@@ -22,11 +22,11 @@ Em 2021 ingressei na [Trybe](https://www.betrybe.com/) como estudante de **Desen
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-asquare&logo=Gmail&logoColor=white&link=mailto:leiaribeirot@gmail.com)](mailto:leiaribeirot@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-asquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/l%C3%A9ia-ribeirot/)](https://www.linkedin.com/in/léia-ribeirot/)
 
-
+<div align="center">
 <a href="https://github.com/leiaribeirot">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=leiaribeirot&show_icons=true&theme=dracula" alt="leiaribeirot" />
+  <img style="display: inline_block" height="180em" src="https://github-readme-stats.vercel.app/api?username=leiaribeirot&show_icons=true&theme=dracula" alt="leiaribeirot" />
 </a>
 <a href="https://github.com/leiaribeirot">
-  <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiaribeirot&layout=compact&theme=dracula" alt="leiaribeirot" />
+  <img style="display: inline_block" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiaribeirot&layout=compact&theme=dracula" alt="leiaribeirot" />
 </a>
-
+</div>
