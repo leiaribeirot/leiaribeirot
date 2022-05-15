@@ -1,9 +1,9 @@
 🙋Oii, sou a Léia Ribeiro! 😌
-Criativa, entusiasta do belo, graduada em Administração Pública pela UFAM, hoje em transição de carreira para a área de tecnologia.
-Em outubro de 2021 ingressei na [Trybe](https://www.betrybe.com/) como estudante de **Desenvolvimento Web** e nessa aventura incrível 🚀 tenho desenvolvido várias aptidões de **Hard Skills** na área desenvolvimento web 👩‍💻 e multiplas habilidades de **Soft Skills** 🧘‍♀️ que me permitem um melhor gerenciamento da minha *roda da vida*. 🎡
+Criativa, entusiasta de ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-asquare&logo=JavaScript&logoColor=white)
+Em 2021 ingressei na [Trybe](https://www.betrybe.com/) como estudante de **Desenvolvimento de Software Web Full Stack** e nessa aventura incrível 🚀 tenho desenvolvido várias aptidões de **Hard Skills** na área programação 👩‍💻 e múltiplas habilidades de **Soft Skills** 🧘‍♀️ que me permitem um melhor gerenciamento da minha *da vida*.
 
 
-**Tecnologias e ferramentas em que me desenvolvi:**
+**Tecnologias e ferramentas em que já me desenvolvi:**
 
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-asquare&logo=JavaScript&logoColor=white)
 ![ReactJS Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-asquare&logo=React&logoColor=black)
