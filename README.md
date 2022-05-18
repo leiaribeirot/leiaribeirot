@@ -11,9 +11,12 @@ Em 2021 ingressei na [Trybe](https://www.betrybe.com/) como estudante de **Desen
 ![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=flat-asquare&logo=Redux&logoColor=white)
 ![Hooks Badge](https://img.shields.io/badge/-Hooks-61DAFB?style=flat-asquare&logo=React&logoColor=black)
 ![React Testing Library Badge](https://img.shields.io/badge/-RTL-61DAFB?style=flat-asquare&logo=react&logoColor=black)
+![Express Badge](https://img.shields.io/badge/-Express.js-grey?style=flat-asquare&logo=expressjs&logoColor=white)
+![Node Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-asquare&logo=node.js&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-asquare&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-asquare&logo=css3&logoColor=white)
 ![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=flat-asquare&logo=jest&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-asquare&logo=MySQL&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-asquare&logo=git&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-asquare&logo=Linux&logoColor=black)
 
