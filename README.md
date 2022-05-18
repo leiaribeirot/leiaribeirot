@@ -23,10 +23,10 @@ Em 2021 ingressei na [Trybe](https://www.betrybe.com/) como estudante de **Desen
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-asquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/l%C3%A9ia-ribeirot/)](https://www.linkedin.com/in/léia-ribeirot/)
 
 <div align="center">
-<a href="https://github.com/leiaribeirot">
+<a href="https://github.com/leiaribeirot/">
   <img style="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api?username=leiaribeirot&show_icons=true&theme=dracula" alt="leiaribeirot" />
 </a>
-<a href="https://github.com/leiaribeirot">
+<a href="https://github.com/leiaribeirot/">
   <img style="display: inline_block" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leiaribeirot&layout=compact&theme=dracula" alt="leiaribeirot" />
 </a>
 </div>
