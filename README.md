@@ -26,7 +26,7 @@ Criativa, entusiasta de JavaScript.
 [![Portfólio](https://img.shields.io/badge/-Portf%C3%B3lio-red?style=flat-asquare&logo=git&logoColor=white)](https://leiaribeirot.github.io/) -->
 <!-- [![Currículo](https://img.shields.io/badge/-Curriculo-blue?style=flat-asquare&logo=git&logoColor=white)](https://drive.google.com/file/d/1Om5FFtaaXSYGFBjd7zZ_Dj2NNjk791bM/view?usp=sharing)
 <!--  -->
-<!-- _PS. Todos os projetos que estão no portfólio serão refatorados para novas funcionalidades e melhor CSS em breve. 👩‍💻_ --> -->
+<!-- _PS. Todos os projetos que estão no portfólio serão refatorados para novas funcionalidades e melhor CSS em breve. 👩‍💻_ -->
 
 
                                                         Dados GitHub
