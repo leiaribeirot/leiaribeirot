@@ -1,8 +1,7 @@
 🙋Oii, sou a Léia Ribeiro! 😌 
 
 Criativa, entusiasta de JavaScript. 
-Em 2021 ingressei na [Trybe](https://www.betrybe.com/) como estudante de **Desenvolvimento de Software Web Full Stack** e nessa aventura incrível 🚀 tenho desenvolvido várias aptidões de **Hard Skills** na área programação 👩‍💻 e múltiplas habilidades de **Soft Skills** 🧘‍♀️ que me permitem um melhor gerenciamento da minha vida.
-
+<!-- Em 2021 ingressei na [Trybe](https://www.betrybe.com/) como estudante de **Desenvolvimento de Software Web Full Stack** e nessa aventura incrível 🚀 tenho desenvolvido várias aptidões de **Hard Skills** na área programação 👩‍💻 e múltiplas habilidades de **Soft Skills** 🧘‍♀️ que me permitem um melhor gerenciamento da minha vida. -->
 
 **Tecnologias e ferramentas em que já me desenvolvi:**
 
@@ -20,14 +19,14 @@ Em 2021 ingressei na [Trybe](https://www.betrybe.com/) como estudante de **Desen
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-asquare&logo=git&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-asquare&logo=Linux&logoColor=black)
 
-**Me encontre e saiba mais em:**
+<!-- **Me encontre e saiba mais em:**
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-asquare&logo=Gmail&logoColor=white&link=mailto:leiaribeirot@gmail.com)](mailto:leiaribeirot@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-asquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/l%C3%A9ia-ribeirot/)](https://www.linkedin.com/in/léia-ribeirot/)
-[![Portfólio](https://img.shields.io/badge/-Portf%C3%B3lio-red?style=flat-asquare&logo=git&logoColor=white)](https://leiaribeirot.github.io/)
-[![Currículo](https://img.shields.io/badge/-Curriculo-blue?style=flat-asquare&logo=git&logoColor=white)](https://drive.google.com/file/d/1Om5FFtaaXSYGFBjd7zZ_Dj2NNjk791bM/view?usp=sharing)
-
-_PS. Todos os projetos que estão no portfólio serão refatorados para novas funcionalidades e melhor CSS em breve. 👩‍💻_
+[![Portfólio](https://img.shields.io/badge/-Portf%C3%B3lio-red?style=flat-asquare&logo=git&logoColor=white)](https://leiaribeirot.github.io/) -->
+<!-- [![Currículo](https://img.shields.io/badge/-Curriculo-blue?style=flat-asquare&logo=git&logoColor=white)](https://drive.google.com/file/d/1Om5FFtaaXSYGFBjd7zZ_Dj2NNjk791bM/view?usp=sharing)
+<!--  -->
+<!-- _PS. Todos os projetos que estão no portfólio serão refatorados para novas funcionalidades e melhor CSS em breve. 👩‍💻_ --> -->
 
 
                                                         Dados GitHub
